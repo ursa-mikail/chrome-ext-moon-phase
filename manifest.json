@@ -1,0 +1,11 @@
+{
+    "name": "Moon Phase for Specific Date",
+    "version": "1.0.0",
+    "description": "This is an extension to look up the current moon phase Specific Date",
+    "manifest_version": 3,
+    "author": "Mikail Eliyah",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Moon Phase for Specific Date"
+    }
+}
